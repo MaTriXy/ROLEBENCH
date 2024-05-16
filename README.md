@@ -100,6 +100,9 @@ _llama3_role_all.ipynb -- Role prompting on all datasets using Llama3-8B Instruc
 ## Contribution 
 The project will always remain OPEN-SOURCE, further contributions involving new models and datasets, formulating new roles in the prompt templates are always welcome.
 
+## References
+if you find this work useful, please cite this repository:
+- 
 
 
 
