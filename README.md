@@ -102,7 +102,7 @@ The project will always remain OPEN-SOURCE, further contributions involving new 
 
 ## References
 if you find this work useful, please cite this repository:
-- 
+- Budagam, D. (2024). ROLEBENCH- A Role Prompting Benchmark [Computer software]. https://github.com/devichand579/ROLEBENCH
 
 
 
