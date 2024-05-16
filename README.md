@@ -1,7 +1,9 @@
 # ROLEBENCH 
 
 ROLEBENCH is a framework for evaluating the performance of Role-Prompting across different datasets and Large Language Models. 
-
+- Have a quick run at <a target="_blank" href="https://colab.research.google.com/github/devichand579/ROLEBENCH/blob/main/llama3_role_all.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 ## Supported models
 - Llama3-8B Instruct 
 - Phi-3 mini-4K Instruct
