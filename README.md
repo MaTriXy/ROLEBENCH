@@ -102,7 +102,15 @@ The project will always remain OPEN-SOURCE, further contributions involving new 
 
 ## References
 if you find this work useful, please cite this repository:
-- Budagam, D. (2024). ROLEBENCH- A Role Prompting Benchmark [Computer software]. https://github.com/devichand579/ROLEBENCH
+```bash
+ @software{Budagam_ROLEBENCH-_A_Role_2024,
+author = {Budagam, Devichand},
+month = may,
+title = {{ROLEBENCH- A Role Prompting Benchmark}},
+url = {https://github.com/devichand579/ROLEBENCH},
+year = {2024}
+}
+```
 
 
 
